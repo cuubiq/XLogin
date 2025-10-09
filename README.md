@@ -31,14 +31,10 @@ XLogin ist ein minimalistisches, responsives und stilvolles Login-Template – i
 In den Projektordner wechseln
 
 ### bash
-Code kopieren
 ```cd XLogin```
-HTML-Datei öffnen
 
-### bash
-Code kopieren
 ```start index.html```
-(oder direkt im Browser öffnen)
+
 
 ### 🧑‍💻 Autor
 VErOVSN
