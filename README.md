@@ -17,7 +17,7 @@ XLogin ist ein minimalistisches, responsives und stilvolles Login-Template – i
 
 ## 🖼️ Vorschau
 
-![XLogin Screenshot](./assets/preview.png)
+![XLogin Screenshot](preview.png)
 
 > *Das moderne, klare Design von XLogin.*
 
