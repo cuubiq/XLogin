@@ -39,7 +39,8 @@ In den Projektordner wechseln
 ### 🧑‍💻 Autor
 VErOVSN
 GitHub @verovsn
-Peak Developer ⚡
+Peak Developer 
+https://verovision.eu/
 
 ### 📄 Lizenz
 Dieses Projekt ist unter der MIT License veröffentlicht.
