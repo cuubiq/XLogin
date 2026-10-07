@@ -1,53 +1,105 @@
-# ✨ XLogin
+# XLogin
 
-Ein moderner und eleganter Login-Screen, entwickelt von **VErOVSN**.  
-XLogin ist ein minimalistisches, responsives und stilvolles Login-Template – ideal für Webprojekte, Dashboards oder Portale.
+A modern, minimal login interface designed for developers who want a clean and professional authentication experience.
 
----
+Built and maintained by **Cuubiq**.
 
-## 🚀 Features
+**Website:** [cuubiq.cc](https://cuubiq.cc/?utm_source=chatgpt.com)
 
-- 🌙 **Modernes Design** mit Neon-Akzenten  
-- 📱 **Responsive Layout** – funktioniert auf Desktop, Tablet und Smartphone  
-- 🔐 **Benutzerfreundliches Login-Formular**  
-- 🧩 **Einfache Integration** in bestehende Projekte  
-- 💡 **Sauberer, gut strukturierter Code**  
+## Overview
 
----
+XLogin is a lightweight and responsive login template designed to be easy to customize and integrate into modern web projects.
 
-## 🖼️ Vorschau
+Whether you're building a dashboard, SaaS application, internal tool, or personal project, XLogin provides a clean foundation for your authentication UI.
 
-![XLogin Screenshot](preview.png)
+## Features
 
-> *Das moderne, klare Design von XLogin.*
+* Modern and minimal interface
+* Fully responsive layout
+* Clean and accessible login form
+* Easy to customize
+* Lightweight and dependency-free
+* Simple integration into existing projects
+* Well-structured and readable code
+* Suitable for dashboards, portals, SaaS applications and web projects
 
----
+## Preview
 
-## ⚙️ Installation
+![XLogin Preview](preview.png)
 
-1. **Repository klonen**
-   ```bash
-   git clone https://github.com/verovsn/XLogin.git
-In den Projektordner wechseln
+## Installation
 
-### bash
-```cd XLogin```
+Clone the repository:
 
-```start index.html```
+```bash
+git clone https://github.com/verovsn/XLogin.git
+```
 
+Navigate into the project directory:
 
-### 🧑‍💻 Autor
-VErOVSN
-GitHub @verovsn
-Peak Developer 
-https://verovision.eu/
+```bash
+cd XLogin
+```
 
-### 📄 Lizenz
-Dieses Projekt ist unter der MIT License veröffentlicht.
-Frei zur Nutzung, Modifikation und Weitergabe – bitte nenne den ursprünglichen Autor.
+Open `index.html` in your browser or serve the project using your preferred local development server.
 
-💬 Feedback & Support
-Wenn du Feedback hast oder Verbesserungsvorschläge teilen möchtest:
-Erstelle ein Issue oder öffne einen Pull Request 🚀
+For example:
 
-⭐ Wenn dir XLogin gefällt, lass ein Star auf GitHub da!
+```bash
+start index.html
+```
+
+## Customization
+
+XLogin is designed to be easy to adapt to your own project.
+
+You can customize:
+
+* Colors and accents
+* Typography
+* Form fields
+* Backgrounds
+* Buttons
+* Branding
+* Layout and spacing
+
+The project can be used as a standalone login page or as a starting point for a larger authentication system.
+
+## Project Structure
+
+```text
+XLogin/
+├── index.html
+├── preview.png
+└── ...
+```
+
+The exact structure may vary depending on your implementation.
+
+## Author
+
+**Cuubiq**
+
+Web: [cuubiq.cc](https://cuubiq.cc/?utm_source=chatgpt.com)
+
+GitHub: [@cuubiq](https://github.com/cuubiq?utm_source=chatgpt.com)
+
+## License
+
+This project is licensed under the **MIT License**.
+
+You are free to use, modify, distribute, and build upon the project in accordance with the license terms.
+
+## Contributing
+
+Contributions are welcome.
+
+If you have an improvement, bug fix, or feature suggestion, feel free to open an issue or submit a pull request.
+
+## Feedback
+
+Found a bug or have an idea for improvement?
+
+Open an issue and describe the problem or suggestion as clearly as possible.
+
+If you find XLogin useful, consider giving the repository a star.
